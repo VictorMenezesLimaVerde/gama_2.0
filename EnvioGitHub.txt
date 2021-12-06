@@ -1,1 +1,3 @@
 Teste de envio ao GitHub
+
+Alterando informações via browser, para validar Merge
