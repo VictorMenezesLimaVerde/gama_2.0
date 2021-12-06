@@ -1,2 +1,6 @@
 Inserindo comentário, via browser.
 Realizado teste de Pull
+
+
+
+Realizando alteração via VSCode, para validar conflitos no Merge.
